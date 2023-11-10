@@ -1,2 +1,2 @@
 # MIPT-lab4
-Simple note app
+Simple note app for Android
